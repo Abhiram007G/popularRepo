@@ -1,0 +1,19 @@
+/* Write your CSS here */
+.filter-item-button {
+  background-color: transparent;
+  border-radius: 15px;
+  width: 80px;
+  height: 30px;
+  border: none;
+}
+
+.text {
+  margin: 0px;
+  font-weight: bold;
+}
+
+.active-item {
+  border: 1px solid;
+  border-color: #0284c7;
+  color: #0284c7;
+}
